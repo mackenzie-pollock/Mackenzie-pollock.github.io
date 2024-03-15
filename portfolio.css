@@ -6,3 +6,17 @@
     --tan: #f7ccad;
     --lightpink: #ffd4e5;
 }
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 50px 20px;
+    background-color: white;
+    flex-direction: row-reverse;
+
+}
+.about-me, .about-me-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
