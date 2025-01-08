@@ -3,9 +3,15 @@
     --pink: #f490b9;
     --lightblue: #bee4e7;
     --orange: #f49f51;
+    --orange: 217, 170, 89;
     --tan: #f7ccad;
     --lightpink: #ffd4e5;
 }
+#logo_link {
+   
+
+}
+
 nav {
     display: flex;
     justify-content: space-between;
